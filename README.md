@@ -21,4 +21,4 @@ I had to slightly retouch the CW2 bridge, so that it matches better with the USB
 
 You will need to file a bit after the 3d printing, but only on this face :
 
-![Uploading IMG20231206114751.jpg…]()
+![Screenshot 2023-12-06 at 20 52 12](https://github.com/cristianku/BTT_CANBUS/assets/25354817/1d2e247a-1443-4355-8804-0cc29b867149)
