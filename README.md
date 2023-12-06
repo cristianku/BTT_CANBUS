@@ -1,7 +1,7 @@
 # BTT_CANBUS
-Modified canbus holder for BTT CANBUS connectors coming in 3 different versions
+Modified canbus holder for BTT CANBUS connectors.
 
-THere are 3 different connectors, the last you will receive will probably be the bigger one.
+They are coming in 3 different connectors. Now you should probably get the bigger one.
 ![render_connettori_2023-Dec-06_07-44-57PM-000_CustomizedView31773849834](https://github.com/cristianku/BTT_CANBUS/assets/25354817/5875dfd6-960c-496f-a915-f31c84670a9c)
 
 <img src="https://github.com/cristianku/BTT_CANBUS/assets/25354817/3a156a7b-6363-4778-8de0-a5d6c884cc8a" width="300">
