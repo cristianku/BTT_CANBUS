@@ -11,7 +11,8 @@ But the connector is different and since its needed a modified version of the Ca
 I had to slightly retouch the CW2 bridge, so that it matches better with the USB-c and therefore the entire assembly of the cable holder.
 
 
-![20231205_055339_82771A59](https://github.com/cristianku/BTT_CANBUS/assets/25354817/3a156a7b-6363-4778-8de0-a5d6c884cc8a)
+<img src="https://github.com/cristianku/BTT_CANBUS/assets/25354817/3a156a7b-6363-4778-8de0-a5d6c884cc8a" width="200">
+
 ![BIGTREETECHEBB_SB2209_CAN_V1 0_v8_2023-Dec-06_07-26-00PM-000_CustomizedView5473503862](https://github.com/cristianku/BTT_CANBUS/assets/25354817/28651154-df69-40c0-b7e5-15ad79403974)
 
 
