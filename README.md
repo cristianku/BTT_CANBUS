@@ -18,6 +18,8 @@ I had to slightly retouch the CW2 bridge, so that it matches better with the USB
 
 ![BIGTREETECHEBB_SB2209_CAN_V1 0_v8_2023-Dec-06_07-26-00PM-000_CustomizedView5473503862](https://github.com/cristianku/BTT_CANBUS/assets/25354817/28651154-df69-40c0-b7e5-15ad79403974)
 
+I have also reinforced the holding, by putting two screws there between the Bridge and the Connector Holder , so that it will not turn around.
+
 
 You will need to file a bit after the 3d printing, but only on this face :
 
