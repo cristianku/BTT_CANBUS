@@ -28,6 +28,10 @@ I had to slightly retouch the CW2 bridge, so that it matches better with the USB
 ![BIGTREETECHEBB_SB2209_CAN_V1 0_v8_2023-Dec-06_07-54-21PM-000_CustomizedView24644283667](https://github.com/cristianku/BTT_CANBUS/assets/25354817/6930056e-9833-4118-b52e-4308e0cdb8f2)
 <br>
 <br>
+![BIGTREETECHEBB_SB2209_CAN_V1 0_v8_2023-Dec-06_07-58-11PM-000_CustomizedView16048980924](https://github.com/cristianku/BTT_CANBUS/assets/25354817/3344991d-e2ef-48ac-8172-fcb04bbe8390)
+
+<br>
+<br>
 
 I have also reinforced the holding, by putting two screws there between the Bridge and the Connector Holder , so that it will not turn around.
 <br>
