@@ -11,6 +11,7 @@ It has changed in terms of internal wire for the power, seems to be 18 awg now.
 
 But the connector is different and since its needed a modified version of the Canbus Cable holder.
 
+
 I had to slightly retouch the CW2 bridge, so that it matches better with the USB-c and therefore the entire assembly of the cable holder.
 
 
@@ -20,3 +21,4 @@ I had to slightly retouch the CW2 bridge, so that it matches better with the USB
 
 You will need to file a bit after the 3d printing, but only on this face :
 
+![Uploading IMG20231206114751.jpg…]()
